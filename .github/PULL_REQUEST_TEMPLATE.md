@@ -62,7 +62,7 @@ Fixes #
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] All new and existing tests pass locally
 - [ ] I have cleared Jupyter notebook outputs (if applicable)
-- [ ] I have updated [FEATURE_UPDATES.md](../../FEATURE_UPDATES.md) with user-facing changes
+- [ ] I have updated [FEATURE_UPDATES.md](FEATURE_UPDATES.md) with user-facing changes
 
 ## Screenshots (if applicable)
 

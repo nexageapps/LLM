@@ -264,7 +264,7 @@ curl -X PUT \
   }'
 ```
 
-*Note: Replace OWNER/REPO with your repository details (e.g., nexageapps/LLM)*
+*Note: Replace OWNER/REPO with your repository details (e.g., YOUR_OWNER/YOUR_REPO)*
 
 #### Option 3: GitHub Actions Workflow
 
