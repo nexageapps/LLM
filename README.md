@@ -1,10 +1,24 @@
 # LLM — Lesson 1: Tokenization, Vocabulary, Encoding & Decoding
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/nexageapps)
+[![Contributors](https://img.shields.io/github/contributors/nexageapps/LLM?color=blue)](https://github.com/nexageapps/LLM/graphs/contributors)
+
 **Author**        | [Karthik Arjun](https://www.linkedin.com/in/karthik-arjun-a5b4a258/)  
 ------------------|-------------------------------------------------------------  
 **Book Reference**| *Build a Large Language Model* by Sebastian Raschka  
 **Lesson**        | L1 - Tokenization, Vocabulary, Encoding & Decoding  
 **Next Lesson**   | L2 - Tensors & Embeddings (Coming Soon)
+
+---
+
+## 💖 Support & Contribute
+
+We welcome contributions! If you find this project helpful:
+- ⭐ Star this repository to show support
+- 💰 [Sponsor this project](https://github.com/sponsors/nexageapps) to help it grow
+- 📝 Check our [Contribution Guidelines](CONTRIBUTING.md) for how to contribute
+- 📋 Review the [Feature Updates & Changelog](FEATURE_UPDATES.md) for recent changes
+- 🔒 See [Branch Protection Guidelines](docs/BRANCH_PROTECTION.md) for repository governance
 
 ---
 
