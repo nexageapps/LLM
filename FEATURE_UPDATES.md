@@ -26,7 +26,7 @@ Each entry should include:
 
 ---
 
-## [2024-11-22] - Lesson 1 Release
+## [2024-11-XX] - Lesson 1 Release
 
 ### Added
 - Initial lesson on tokenization, vocabulary, encoding, and decoding

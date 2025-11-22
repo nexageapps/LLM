@@ -175,7 +175,7 @@ For detailed information about branch protection settings and how to configure t
 
 ## Questions or Need Help?
 
-- **Questions**: Open a [GitHub Discussion](../../discussions) or an issue
+- **Questions**: Open an issue or start a discussion
 - **Bug reports**: Use the [bug report template](.github/ISSUE_TEMPLATE/bug_report.md)
 - **Feature requests**: Use the [feature request template](.github/ISSUE_TEMPLATE/feature_request.md)
 
