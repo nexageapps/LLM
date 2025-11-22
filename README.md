@@ -2,7 +2,6 @@
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/nexageapps?style=social)](https://github.com/sponsors/nexageapps)
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=flat-square)](https://github.com/sponsors/nexageapps)
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-blue?style=flat-square)](https://opencollective.com)
 
 **Author**        | [Karthik Arjun](https://www.linkedin.com/in/karthik-arjun-a5b4a258/)  
 ------------------|-------------------------------------------------------------  

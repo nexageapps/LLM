@@ -247,7 +247,7 @@ For organizations managing many repositories, consider:
 curl -X PUT \
   -H "Accept: application/vnd.github+json" \
   -H "Authorization: Bearer YOUR_PAT_TOKEN" \
-  https://api.github.com/repos/nexageapps/LLM/branches/main/protection \
+  https://api.github.com/repos/OWNER/REPO/branches/main/protection \
   -d '{
     "required_pull_request_reviews": {
       "required_approving_review_count": 1,
@@ -263,6 +263,8 @@ curl -X PUT \
     "allow_deletions": false
   }'
 ```
+
+*Note: Replace OWNER/REPO with your repository details (e.g., nexageapps/LLM)*
 
 #### Option 3: GitHub Actions Workflow
 
