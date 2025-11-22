@@ -1,5 +1,9 @@
 # LLM — Lesson 1: Tokenization, Vocabulary, Encoding & Decoding
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/nexageapps?style=social)](https://github.com/sponsors/nexageapps)
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=flat-square)](https://github.com/sponsors/nexageapps)
+[![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-blue?style=flat-square)](https://opencollective.com)
+
 **Author**        | [Karthik Arjun](https://www.linkedin.com/in/karthik-arjun-a5b4a258/)  
 ------------------|-------------------------------------------------------------  
 **Book Reference**| *Build a Large Language Model* by Sebastian Raschka  
@@ -67,7 +71,14 @@ Lesson 2 will introduce tensors and embeddings and show how token IDs map to num
 
 ## 🤝 Contributing
 
-Contributions, issues, and suggestions are welcome. Please open an issue for discussion before submitting large changes.
+We welcome contributions, issues, and suggestions! To ensure a smooth collaboration experience:
+
+- Please review our [Contributing Guidelines](CONTRIBUTING.md) for details on our code style, branch workflow, and how to submit pull requests
+- Check out [Feature Updates](FEATURE_UPDATES.md) to see what's been recently added or changed
+- Read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand our community standards
+
+**Branch Protection & PR Flow:**  
+The `main` branch is protected to maintain code quality. All contributions must go through a pull request with review. Contributors should create feature branches following our naming conventions (see [CONTRIBUTING.md](CONTRIBUTING.md)) and submit PRs using our template. For details on branch protection settings and how to request exceptions, see [docs/BRANCH_PROTECTION.md](docs/BRANCH_PROTECTION.md).
 
 ---
 
