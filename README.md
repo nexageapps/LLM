@@ -15,15 +15,23 @@
 [![Lessons](https://img.shields.io/badge/Lessons-60+-brightgreen.svg)](./01_Basic/)
 [![Sponsored by nexageapps](https://img.shields.io/badge/Sponsored%20by-nexageapps-blue.svg)](https://nexageapps.com)
 
+---
+
+**If you find this helpful, please star the repository!**
+
+[![Buy me a book](https://img.shields.io/badge/Buy%20Me%20A%20Book-Support%20This%20Project-yellow?style=for-the-badge)](https://buymeacoffee.com/fcc4sbsx5f6)
+
+*Made by a student, for students*
+
 </div>
 
 ---
 
-## 📚 Course Overview
+## Course Overview
 
 This repository contains a structured learning path for Large Language Models (LLMs), designed specifically for Master's in AI students. The curriculum progresses from foundational concepts to expert-level implementations, with hands-on Jupyter notebooks for each lesson.
 
-### 🎯 Learning Philosophy
+### Learning Philosophy
 - **Theory + Practice**: Each lesson combines conceptual understanding with executable code
 - **Progressive Complexity**: Build knowledge incrementally across 60 lessons
 - **Real-world Applications**: Learn through practical examples and use cases
@@ -31,11 +39,11 @@ This repository contains a structured learning path for Large Language Models (L
 
 ---
 
-## 📖 Course Structure
+## Course Structure
 
 The course is divided into **4 levels** with **15 lessons each** (60 total lessons):
 
-### 🟢 Level 1: Basic (Lessons 1-15)
+### Level 1: Basic (Lessons 1-15)
 **Focus:** Foundations of NLP, tokenization, embeddings, and transformer basics
 
 | Lesson | Topic | Description |
@@ -56,7 +64,7 @@ The course is divided into **4 levels** with **15 lessons each** (60 total lesso
 | L14 | Model Evaluation Metrics | Perplexity, BLEU, ROUGE |
 | L15 | Basic Project | Build a simple chatbot |
 
-### 🔵 Level 2: Intermediate (Lessons 16-30)
+### Level 2: Intermediate (Lessons 16-30)
 **Focus:** Fine-tuning, advanced architectures, and specialized models
 
 | Lesson | Topic | Description |
@@ -77,7 +85,7 @@ The course is divided into **4 levels** with **15 lessons each** (60 total lesso
 | L29 | Vector Databases | Storing and retrieving embeddings |
 | L30 | Intermediate Project | Build a document Q&A system |
 
-### 🟠 Level 3: Advanced (Lessons 31-45)
+### Level 3: Advanced (Lessons 31-45)
 **Focus:** Custom architectures, training from scratch, and advanced techniques
 
 | Lesson | Topic | Description |
@@ -98,7 +106,7 @@ The course is divided into **4 levels** with **15 lessons each** (60 total lesso
 | L44 | Model Alignment | Safety, bias mitigation, ethical AI |
 | L45 | Advanced Project | Train a specialized domain model |
 
-### � Level 4: Expert (Lessons 46-60)
+### Level 4: Expert (Lessons 46-60)
 **Focus:** Research frontiers, production systems, and cutting-edge techniques
 
 | Lesson | Topic | Description |
@@ -121,7 +129,7 @@ The course is divided into **4 levels** with **15 lessons each** (60 total lesso
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -151,7 +159,7 @@ jupyter notebook
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 LLM/
@@ -181,22 +189,22 @@ LLM/
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 By completing this course, you will:
 
-✅ Understand transformer architecture from first principles  
-✅ Build and train custom LLMs  
-✅ Fine-tune models for specific tasks  
-✅ Implement advanced techniques (LoRA, RLHF, RAG)  
-✅ Deploy production-ready LLM applications  
-✅ Stay current with latest research and techniques  
-✅ Develop expertise in prompt engineering and model evaluation  
-✅ Create multimodal and agent-based systems  
+- Understand transformer architecture from first principles  
+- Build and train custom LLMs  
+- Fine-tune models for specific tasks  
+- Implement advanced techniques (LoRA, RLHF, RAG)  
+- Deploy production-ready LLM applications  
+- Stay current with latest research and techniques  
+- Develop expertise in prompt engineering and model evaluation  
+- Create multimodal and agent-based systems  
 
 ---
 
-## 📚 Key References
+## Key References
 
 - **Build a Large Language Model (From Scratch)** - Sebastian Raschka
 - **Attention Is All You Need** - Vaswani et al. (2017)
@@ -207,7 +215,7 @@ By completing this course, you will:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please:
 1. Fork the repository
@@ -217,7 +225,7 @@ Contributions are welcome! Please:
 
 ---
 
-## 📧 Contact & Support
+## Contact & Support
 
 - **Author:** Karthik Arjun
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/karthik-arjun-a5b4a258/)
@@ -226,13 +234,13 @@ Contributions are welcome! Please:
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
 Special thanks to:
 - Sebastian Raschka for "Build a Large Language Model"
@@ -242,6 +250,6 @@ Special thanks to:
 
 ---
 
-**Happy Learning! 🚀**
+**Happy Learning!**
 
 *Last Updated: March 2026*
