@@ -1,12 +1,12 @@
 # Project Guide - Building Your LLM Portfolio
 
-## 🎯 Overview
+## Overview
 
 Each level includes a capstone project to apply your learning. This guide helps you plan, build, and showcase your projects.
 
 ---
 
-## 📋 Project 1: Simple Chatbot (Level 1 - Basic)
+## Project 1: Simple Chatbot (Level 1 - Basic)
 
 ### Objective
 Build a conversational chatbot using pre-trained models that can engage in multi-turn conversations.
@@ -107,7 +107,7 @@ demo.launch()
 
 ---
 
-## 📋 Project 2: Document Q&A System (Level 2 - Intermediate)
+## Project 2: Document Q&A System (Level 2 - Intermediate)
 
 ### Objective
 Build a RAG-based system that answers questions about uploaded documents with source citations.
@@ -224,7 +224,7 @@ def answer_question(question):
 
 ---
 
-## 📋 Project 3: Domain-Specific Model (Level 3 - Advanced)
+## Project 3: Domain-Specific Model (Level 3 - Advanced)
 
 ### Objective
 Train a specialized language model from scratch for a specific domain (medical, legal, financial, etc.).
@@ -345,7 +345,7 @@ trainer.train()
 
 ---
 
-## 📋 Project 4: Production LLM System (Level 4 - Expert)
+## Project 4: Production LLM System (Level 4 - Expert)
 
 ### Objective
 Build a complete, production-ready LLM application with monitoring, optimization, and security.
@@ -506,7 +506,7 @@ cache = PromptCache()
 
 ---
 
-## 📊 Project Showcase Template
+## Project Showcase Template
 
 ### README Structure
 ```markdown
@@ -546,7 +546,7 @@ Credits and references
 
 ---
 
-## 🎯 Success Checklist
+## Success Checklist
 
 For each project:
 - [ ] Code is well-documented
@@ -560,7 +560,7 @@ For each project:
 
 ---
 
-## 🚀 Deployment Options
+## Deployment Options
 
 ### Free Tier
 - Hugging Face Spaces
@@ -577,4 +577,4 @@ For each project:
 
 ---
 
-**Build amazing projects and showcase your LLM expertise! 🎉**
+**Build amazing projects and showcase your LLM expertise!**

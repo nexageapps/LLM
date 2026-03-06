@@ -1,6 +1,6 @@
 # Level 3: Advanced - Custom Training & Architectures
 
-## 🎯 Level Overview
+## Level Overview
 
 Welcome to the Advanced level! You'll learn to train LLMs from scratch, design custom architectures, implement cutting-edge techniques, and work with multimodal models. This level prepares you for research and production-scale deployments.
 
@@ -21,7 +21,7 @@ Welcome to the Advanced level! You'll learn to train LLMs from scratch, design c
 
 ---
 
-## 📚 Lessons Overview
+## Lessons Overview
 
 ### **L31: Training from Scratch**
 **Concepts:** Data preparation, tokenizer training, model initialization, training loops
@@ -216,7 +216,7 @@ Welcome to the Advanced level! You'll learn to train LLMs from scratch, design c
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### Hardware Requirements
 - **Minimum:** 4x A100 40GB GPUs
@@ -234,7 +234,7 @@ pip install triton  # For custom kernels
 
 ---
 
-## 📊 Progress Tracking
+## Progress Tracking
 
 - [ ] L31: Training from Scratch
 - [ ] L32: Custom Architectures
@@ -254,22 +254,22 @@ pip install triton  # For custom kernels
 
 ---
 
-## 🎯 Assessment
+## Assessment
 
 After completing this level, you should be able to:
 
-✅ Train LLMs from scratch  
-✅ Implement distributed training  
-✅ Design custom architectures  
-✅ Optimize training efficiency  
-✅ Work with multimodal models  
-✅ Handle long contexts  
-✅ Build production training pipelines  
-✅ Address alignment and safety  
+- Train LLMs from scratch  
+- Implement distributed training  
+- Design custom architectures  
+- Optimize training efficiency  
+- Work with multimodal models  
+- Handle long contexts  
+- Build production training pipelines  
+- Address alignment and safety  
 
 ---
 
-## 📚 Key Papers
+## Key Papers
 
 - "Scaling Laws for Neural Language Models" (Kaplan et al., 2020)
 - "FlashAttention: Fast and Memory-Efficient Exact Attention" (Dao et al., 2022)
@@ -278,11 +278,11 @@ After completing this level, you should be able to:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 Once you complete Level 3, proceed to:
 **Level 4: Expert** - Research frontiers, production systems, and cutting-edge techniques
 
 ---
 
-**You're becoming an expert! 🚀**
+**You're becoming an expert!**

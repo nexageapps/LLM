@@ -18,9 +18,9 @@ Repository administrators should enable the following settings:
 
 #### 1. Require Pull Request Reviews Before Merging
 
-- **Setting**: ✅ Require a pull request before merging
+- **Setting**: [x] Require a pull request before merging
 - **Required approvals**: At least 1 approval
-- **Dismiss stale reviews**: ✅ Enabled (recommended)
+- **Dismiss stale reviews**: [x] Enabled (recommended)
 - **Require review from Code Owners**: Optional (if CODEOWNERS file exists)
 - **Restrict who can dismiss reviews**: Optional
 
@@ -28,30 +28,30 @@ Repository administrators should enable the following settings:
 
 #### 2. Require Status Checks to Pass
 
-- **Setting**: ✅ Require status checks to pass before merging
-- **Require branches to be up to date**: ✅ Enabled
+- **Setting**: [x] Require status checks to pass before merging
+- **Require branches to be up to date**: [x] Enabled
 - **Status checks**: Add any CI/CD workflows once configured (e.g., `test`, `lint`, `build`)
 
 **Why**: Prevents merging code that breaks tests or fails automated checks.
 
 #### 3. Require Signed Commits (Optional but Recommended)
 
-- **Setting**: ✅ Require signed commits (optional)
+- **Setting**: [x] Require signed commits (optional)
 
 **Why**: Adds an extra layer of security by verifying commit authenticity.
 
 #### 4. Require Linear History
 
-- **Setting**: ✅ Require linear history
+- **Setting**: [x] Require linear history
 - **Effect**: Prevents merge commits; requires squash or rebase
 
 **Why**: Keeps the commit history clean and easy to follow.
 
 #### 5. Restrict Who Can Push
 
-- **Setting**: ✅ Restrict who can push to matching branches
+- **Setting**: [x] Restrict who can push to matching branches
 - **Allowed**: Repository administrators only
-- **Include administrators**: ❌ Do not allow bypassing (recommended for maximum protection)
+- **Include administrators**: [ ] Do not allow bypassing (recommended for maximum protection)
 
 **Why**: Ensures all changes go through the PR process, even from administrators.
 

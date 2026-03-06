@@ -1,6 +1,6 @@
 # Level 1: Basic - Foundations of LLMs
 
-## 🎯 Level Overview
+## Level Overview
 
 Welcome to the foundational level of LLM mastery! This level introduces you to the core concepts of Natural Language Processing and Large Language Models. You'll learn how text is processed, how transformers work, and how to use pre-trained models effectively.
 
@@ -14,7 +14,7 @@ Welcome to the foundational level of LLM mastery! This level introduces you to t
 
 ---
 
-## 📚 Lessons Overview
+## Lessons Overview
 
 ### **L1: Text Processing & Tokenization**
 **Duration:** 2-3 hours  
@@ -267,7 +267,7 @@ output = model.generate(
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### Install Required Libraries
 ```bash
@@ -287,7 +287,7 @@ print(f"CUDA available: {torch.cuda.is_available()}")
 
 ---
 
-## 📊 Progress Tracking
+## Progress Tracking
 
 Track your progress through the level:
 
@@ -309,22 +309,22 @@ Track your progress through the level:
 
 ---
 
-## 🎯 Assessment
+## Assessment
 
 After completing this level, you should be able to:
 
-✅ Explain how transformers process text  
-✅ Build custom tokenizers  
-✅ Use pre-trained models for various tasks  
-✅ Understand attention mechanisms  
-✅ Generate text with different strategies  
-✅ Engineer effective prompts  
-✅ Evaluate model performance  
-✅ Build a simple LLM application  
+- Explain how transformers process text  
+- Build custom tokenizers  
+- Use pre-trained models for various tasks  
+- Understand attention mechanisms  
+- Generate text with different strategies  
+- Engineer effective prompts  
+- Evaluate model performance  
+- Build a simple LLM application  
 
 ---
 
-## 📚 Additional Resources
+## Additional Resources
 
 ### Books
 - "Build a Large Language Model (From Scratch)" - Sebastian Raschka
@@ -342,11 +342,11 @@ After completing this level, you should be able to:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 Once you complete Level 1, proceed to:
 **Level 2: Intermediate** - Fine-tuning, advanced architectures, and specialized models
 
 ---
 
-**Good luck with your learning journey! 🌟**
+**Good luck with your learning journey!**

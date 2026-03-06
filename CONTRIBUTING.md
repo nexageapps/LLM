@@ -2,11 +2,11 @@
 
 Thank you for your interest in contributing to the LLM project! This document provides guidelines and instructions for contributing to this repository.
 
-## 🤝 Code of Conduct
+## Code of Conduct
 
 By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it before contributing.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [How to Contribute](#how-to-contribute)
 - [Code Style and Formatting](#code-style-and-formatting)
@@ -179,4 +179,4 @@ For detailed information about branch protection settings and how to configure t
 - **Bug reports**: Use the [bug report template](.github/ISSUE_TEMPLATE/bug_report.md)
 - **Feature requests**: Use the [feature request template](.github/ISSUE_TEMPLATE/feature_request.md)
 
-Thank you for contributing to the LLM project! 🎉
+Thank you for contributing to the LLM project!

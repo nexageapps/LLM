@@ -8,9 +8,9 @@ Track your learning journey through all 60 lessons!
 
 ---
 
-## 🟢 Level 1: Basic (Foundations)
+## Level 1: Basic (Foundations)
 
-**Status:** ⬜ Not Started | 🔄 In Progress | ✅ Completed  
+**Status:** [ ] Not Started | [~] In Progress | [x] Completed  
 **Target:** 2-4 weeks
 
 | # | Lesson | Status | Date | Hours | Notes |
@@ -54,9 +54,9 @@ Live Demo:
 
 ---
 
-## 🔵 Level 2: Intermediate (Fine-tuning)
+## Level 2: Intermediate (Fine-tuning)
 
-**Status:** ⬜ Not Started | 🔄 In Progress | ✅ Completed  
+**Status:** [ ] Not Started | [~] In Progress | [x] Completed  
 **Target:** 2-4 weeks
 
 | # | Lesson | Status | Date | Hours | Notes |
@@ -100,9 +100,9 @@ Live Demo:
 
 ---
 
-## 🟠 Level 3: Advanced (Custom Training)
+## Level 3: Advanced (Custom Training)
 
-**Status:** ⬜ Not Started | 🔄 In Progress | ✅ Completed  
+**Status:** [ ] Not Started | [~] In Progress | [x] Completed  
 **Target:** 2-4 weeks
 
 | # | Lesson | Status | Date | Hours | Notes |
@@ -146,9 +146,9 @@ HuggingFace Model:
 
 ---
 
-## 🔴 Level 4: Expert (Research & Production)
+## Level 4: Expert (Research & Production)
 
-**Status:** ⬜ Not Started | 🔄 In Progress | ✅ Completed  
+**Status:** [ ] Not Started | [~] In Progress | [x] Completed  
 **Target:** 2-4 weeks
 
 | # | Lesson | Status | Date | Hours | Notes |
@@ -193,7 +193,7 @@ Blog Post:
 
 ---
 
-## 📊 Overall Progress
+## Overall Progress
 
 **Total Lessons Completed:** ___/60 (___%)
 
@@ -205,7 +205,7 @@ Blog Post:
 
 ---
 
-## 🎯 Milestones
+## Milestones
 
 - [ ] Completed first lesson (L1)
 - [ ] Built first chatbot (L15)
@@ -220,7 +220,7 @@ Blog Post:
 
 ---
 
-## 📚 Additional Learning
+## Additional Learning
 
 ### Books Read
 - [ ] "Build a Large Language Model" - Sebastian Raschka
@@ -238,7 +238,7 @@ Blog Post:
 
 ---
 
-## 🤝 Community Contributions
+## Community Contributions
 
 ### GitHub Contributions
 - Repository: _________________
@@ -255,7 +255,7 @@ Blog Post:
 
 ---
 
-## 💼 Career Impact
+## Career Impact
 
 ### Skills Acquired
 - [ ] Transformer architecture
@@ -285,7 +285,7 @@ Blog Post:
 
 ---
 
-## 🎓 Next Steps After Completion
+## Next Steps After Completion
 
 ### Short-term (1-3 months)
 - [ ] _________________
@@ -304,7 +304,7 @@ Blog Post:
 
 ---
 
-## 📝 Weekly Reflection
+## Weekly Reflection
 
 ### Week 1
 **Date:** _________________  
@@ -338,24 +338,24 @@ Blog Post:
 
 ---
 
-## 🌟 Achievements Unlocked
+## Achievements Unlocked
 
-- [ ] 🎯 First Lesson Complete
-- [ ] 🔥 Week Streak (7 days)
-- [ ] 💪 Level 1 Master
-- [ ] 🚀 First Project Deployed
-- [ ] 🎨 Level 2 Master
-- [ ] 🧠 Trained First Model
-- [ ] ⚡ Level 3 Master
-- [ ] 🏆 Capstone Complete
-- [ ] 👑 Level 4 Master - LLM Expert!
-- [ ] 🌍 Open Source Contributor
-- [ ] ✍️ Technical Writer
-- [ ] 🎤 Conference Speaker
+- [ ] First Lesson Complete
+- [ ] Week Streak (7 days)
+- [ ] Level 1 Master
+- [ ] First Project Deployed
+- [ ] Level 2 Master
+- [ ] Trained First Model
+- [ ] Level 3 Master
+- [ ] Capstone Complete
+- [ ] Level 4 Master - LLM Expert!
+- [ ] Open Source Contributor
+- [ ] Technical Writer
+- [ ] Conference Speaker
 
 ---
 
-## 💡 Tips for Success
+## Tips for Success
 
 1. **Consistency > Intensity:** Study 1 hour daily rather than 10 hours once a week
 2. **Active Learning:** Code along, don't just read
@@ -367,7 +367,7 @@ Blog Post:
 
 ---
 
-## 📧 Support
+## Support
 
 Need help? Reach out:
 - GitHub Issues
@@ -376,6 +376,6 @@ Need help? Reach out:
 
 ---
 
-**You're on your way to LLM mastery! Keep going! 🚀**
+**You're on your way to LLM mastery! Keep going!**
 
 *"The expert in anything was once a beginner." - Helen Hayes*

@@ -1,6 +1,6 @@
 # Level 4: Expert - Research Frontiers & Production Systems
 
-## 🎯 Level Overview
+## Level Overview
 
 Welcome to the Expert level! This is where you master cutting-edge research, build production-scale systems, and contribute to the advancement of LLM technology. You'll work with the latest techniques and prepare for real-world deployment at scale.
 
@@ -21,7 +21,7 @@ Welcome to the Expert level! This is where you master cutting-edge research, bui
 
 ---
 
-## 📚 Lessons Overview
+## Lessons Overview
 
 ### **L46: Constitutional AI**
 **Concepts:** AI feedback, self-improvement, harmlessness training
@@ -244,7 +244,7 @@ Welcome to the Expert level! This is where you master cutting-edge research, bui
 
 ---
 
-## 🛠️ Production Stack
+## Production Stack
 
 ### Infrastructure
 ```bash
@@ -268,7 +268,7 @@ pip install kubernetes ray[default]
 
 ---
 
-## 📊 Progress Tracking
+## Progress Tracking
 
 - [ ] L46: Constitutional AI
 - [ ] L47: Mixture of Experts
@@ -288,22 +288,22 @@ pip install kubernetes ray[default]
 
 ---
 
-## 🎯 Final Assessment
+## Final Assessment
 
 After completing this level, you should be able to:
 
-✅ Implement cutting-edge research  
-✅ Build production LLM systems  
-✅ Design agent architectures  
-✅ Optimize for cost and scale  
-✅ Ensure security and safety  
-✅ Contribute to LLM research  
-✅ Lead LLM projects  
-✅ Mentor others in LLM development  
+- Implement cutting-edge research  
+- Build production LLM systems  
+- Design agent architectures  
+- Optimize for cost and scale  
+- Ensure security and safety  
+- Contribute to LLM research  
+- Lead LLM projects  
+- Mentor others in LLM development  
 
 ---
 
-## 📚 Latest Research
+## Latest Research
 
 ### Must-Read Papers (2023-2024)
 - "Mamba: Linear-Time Sequence Modeling" (Gu & Dao, 2023)
@@ -322,7 +322,7 @@ After completing this level, you should be able to:
 
 ---
 
-## 🌟 Career Paths
+## Career Paths
 
 With expert-level LLM skills, you can pursue:
 
@@ -335,7 +335,7 @@ With expert-level LLM skills, you can pursue:
 
 ---
 
-## 🤝 Contributing to Open Source
+## Contributing to Open Source
 
 ### Projects to Contribute To
 - **HuggingFace Transformers:** Core library
@@ -353,7 +353,7 @@ With expert-level LLM skills, you can pursue:
 
 ---
 
-## 🎓 Continuing Education
+## Continuing Education
 
 ### Stay Current
 - Follow arXiv daily (cs.CL, cs.LG)
@@ -371,15 +371,15 @@ With expert-level LLM skills, you can pursue:
 
 ---
 
-## 🏆 Congratulations!
+## Congratulations!
 
 You've completed the entire LLM Mastery course! You now have:
 
-✨ Deep understanding of LLM theory and practice  
-✨ Hands-on experience with 60 comprehensive lessons  
-✨ Skills to build production LLM systems  
-✨ Knowledge of cutting-edge research  
-✨ Portfolio of projects demonstrating expertise  
+- Deep understanding of LLM theory and practice  
+- Hands-on experience with 60 comprehensive lessons  
+- Skills to build production LLM systems  
+- Knowledge of cutting-edge research  
+- Portfolio of projects demonstrating expertise  
 
 ### What's Next?
 
@@ -392,7 +392,7 @@ You've completed the entire LLM Mastery course! You now have:
 
 ---
 
-## 📧 Stay Connected
+## Stay Connected
 
 - **Author:** Karthik Arjun
 - **LinkedIn:** [Connect](https://www.linkedin.com/in/karthik-arjun-a5b4a258/)
@@ -401,6 +401,6 @@ You've completed the entire LLM Mastery course! You now have:
 
 ---
 
-**You're now an LLM Expert! Go build amazing things! 🚀🎉**
+**You're now an LLM Expert! Go build amazing things!**
 
 *The future of AI is in your hands.*

@@ -1,6 +1,6 @@
 # Level 2: Intermediate - Fine-tuning & Advanced Architectures
 
-## 🎯 Level Overview
+## Level Overview
 
 Welcome to the Intermediate level! Now that you understand the foundations, you'll learn how to adapt pre-trained models to your specific needs through fine-tuning, explore different model architectures, and build more sophisticated LLM applications.
 
@@ -19,7 +19,7 @@ Welcome to the Intermediate level! Now that you understand the foundations, you'
 
 ---
 
-## 📚 Lessons Overview
+## Lessons Overview
 
 ### **L16: Transfer Learning**
 **Concepts:** Pre-training vs fine-tuning, domain adaptation, task-specific heads
@@ -226,7 +226,7 @@ Query → Retrieve docs → Augment prompt → Generate answer
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### Install Additional Libraries
 ```bash
@@ -243,7 +243,7 @@ pip install wandb tensorboard  # For experiment tracking
 
 ---
 
-## 📊 Progress Tracking
+## Progress Tracking
 
 - [ ] L16: Transfer Learning
 - [ ] L17: Fine-tuning Techniques
@@ -263,21 +263,21 @@ pip install wandb tensorboard  # For experiment tracking
 
 ---
 
-## 🎯 Assessment
+## Assessment
 
 After completing this level, you should be able to:
 
-✅ Fine-tune models for custom tasks  
-✅ Use parameter-efficient methods (LoRA)  
-✅ Choose appropriate model architectures  
-✅ Build RAG systems  
-✅ Optimize models for production  
-✅ Implement efficient inference  
-✅ Create domain-specific applications  
+- Fine-tune models for custom tasks  
+- Use parameter-efficient methods (LoRA)  
+- Choose appropriate model architectures  
+- Build RAG systems  
+- Optimize models for production  
+- Implement efficient inference  
+- Create domain-specific applications  
 
 ---
 
-## 📚 Key Papers
+## Key Papers
 
 - "LoRA: Low-Rank Adaptation of Large Language Models" (Hu et al., 2021)
 - "Training language models to follow instructions with human feedback" (Ouyang et al., 2022)
@@ -286,11 +286,11 @@ After completing this level, you should be able to:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 Once you complete Level 2, proceed to:
 **Level 3: Advanced** - Training from scratch, custom architectures, and multimodal models
 
 ---
 
-**Keep building! 🔥**
+**Keep building!**

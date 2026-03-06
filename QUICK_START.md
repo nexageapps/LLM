@@ -2,7 +2,7 @@
 
 Welcome! This guide will help you get started with the LLM Mastery course in under 10 minutes.
 
-## 🚀 Setup (5 minutes)
+## Setup (5 minutes)
 
 ### Option 1: Local Setup (Recommended for GPU users)
 
@@ -37,7 +37,7 @@ jupyter notebook
 
 ---
 
-## 📚 Your First Lesson (5 minutes)
+## Your First Lesson (5 minutes)
 
 ### Start with L1: Text Processing & Tokenization
 
@@ -55,7 +55,7 @@ jupyter notebook
 
 ---
 
-## 🎯 Learning Path
+## Learning Path
 
 ### Week 1-2: Basic Level (L1-L15)
 - **Time commitment:** 2-3 hours per lesson
@@ -79,7 +79,7 @@ jupyter notebook
 
 ---
 
-## 💡 Tips for Success
+## Tips for Success
 
 ### 1. Learn by Doing
 - Don't just read the code - run it!
@@ -108,7 +108,7 @@ jupyter notebook
 
 ---
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 ### Issue: CUDA out of memory
 **Solution:** 
@@ -139,7 +139,7 @@ os.environ['HF_HOME'] = '/path/to/cache'
 
 ---
 
-## 📊 Track Your Progress
+## Track Your Progress
 
 Create a learning log:
 
@@ -147,9 +147,9 @@ Create a learning log:
 # My LLM Learning Journey
 
 ## Week 1
-- [x] L1: Text Processing ✅
-- [x] L2: Transformer Pipelines ✅
-- [ ] L3: Word Embeddings 🔄
+- [x] L1: Text Processing (Completed)
+- [x] L2: Transformer Pipelines (Completed)
+- [ ] L3: Word Embeddings (In Progress)
 
 ### Key Learnings
 - Tokenization is crucial for LLMs
@@ -166,7 +166,7 @@ Create a learning log:
 
 ---
 
-## 🎓 Learning Resources
+## Learning Resources
 
 ### Official Documentation
 - [HuggingFace Docs](https://huggingface.co/docs)
@@ -191,7 +191,7 @@ Create a learning log:
 
 ---
 
-## 🎯 Your First Week Plan
+## Your First Week Plan
 
 ### Day 1: Setup & L1
 - [ ] Complete environment setup
@@ -230,16 +230,16 @@ Create a learning log:
 
 ---
 
-## 🚀 Ready to Start?
+## Ready to Start?
 
 1. Open `01_Basic/L1_Text_Processing_Tokenization.ipynb`
 2. Read through the introduction
 3. Run the first code cell
-4. You're learning LLMs! 🎉
+4. You're learning LLMs!
 
 ---
 
-## 📧 Need Help?
+## Need Help?
 
 - **Issues:** Open a GitHub issue
 - **Questions:** Use GitHub Discussions
@@ -247,6 +247,6 @@ Create a learning log:
 
 ---
 
-**Happy Learning! Let's master LLMs together! 🚀**
+**Happy Learning! Let's master LLMs together!**
 
 *Remember: The journey of a thousand miles begins with a single step. Your first step is L1!*

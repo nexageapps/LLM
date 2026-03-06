@@ -1,13 +1,13 @@
 # Remaining Lessons to Create for Basic Level
 
-## ✅ Completed (5 lessons):
-- L1: Text Processing & Tokenization ✅
-- L2: Transformer Pipelines ✅
-- L3: Word Embeddings ✅
-- L4: Attention Mechanisms ✅
-- L5: Positional Encoding ✅
+## Completed (5 lessons):
+- L1: Text Processing & Tokenization (Completed)
+- L2: Transformer Pipelines (Completed)
+- L3: Word Embeddings (Completed)
+- L4: Attention Mechanisms (Completed)
+- L5: Positional Encoding (Completed)
 
-## 📝 To Create (10 lessons):
+## To Create (10 lessons):
 
 ### L6: Transformer Architecture
 **Topics:** Complete architecture, encoder-decoder, layer norm, residual connections
@@ -51,7 +51,7 @@
 
 ---
 
-## 📋 Template Structure for Each Lesson:
+## Template Structure for Each Lesson:
 
 ```markdown
 # Title
@@ -66,7 +66,7 @@
 - Next lesson link
 ```
 
-## 🎯 Next Steps:
+## Next Steps:
 
 You can create these lessons by:
 1. Following the format of L1-L5

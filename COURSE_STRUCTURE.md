@@ -1,6 +1,6 @@
 # LLM Mastery Course - Complete Structure
 
-## 📊 Course Statistics
+## Course Statistics
 
 - **Total Lessons:** 60 (15 per level)
 - **Estimated Duration:** 8 weeks (full-time) or 16 weeks (part-time)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 LLM/
@@ -117,7 +117,7 @@ LLM/
 
 ---
 
-## 📚 Lesson Format
+## Lesson Format
 
 Each lesson follows a consistent structure:
 
@@ -159,7 +159,7 @@ Each lesson follows a consistent structure:
 
 ---
 
-## 🎯 Learning Path by Goal
+## Learning Path by Goal
 
 ### Goal: Understand LLM Fundamentals
 **Recommended:** Level 1 (L1-L15)
@@ -187,7 +187,7 @@ Each lesson follows a consistent structure:
 
 ---
 
-## 🛠️ Technical Requirements by Level
+## Technical Requirements by Level
 
 ### Level 1: Basic
 - **Hardware:** CPU sufficient, GPU optional
@@ -215,35 +215,35 @@ Each lesson follows a consistent structure:
 
 ---
 
-## 📈 Skill Progression
+## Skill Progression
 
 ### After Level 1 (Basic)
-✅ Understand transformer architecture  
-✅ Use pre-trained models  
-✅ Engineer effective prompts  
-✅ Build simple chatbots  
+- Understand transformer architecture  
+- Use pre-trained models  
+- Engineer effective prompts  
+- Build simple chatbots  
 
 ### After Level 2 (Intermediate)
-✅ Fine-tune models for custom tasks  
-✅ Implement RAG systems  
-✅ Optimize for production  
-✅ Build document Q&A systems  
+- Fine-tune models for custom tasks  
+- Implement RAG systems  
+- Optimize for production  
+- Build document Q&A systems  
 
 ### After Level 3 (Advanced)
-✅ Train models from scratch  
-✅ Design custom architectures  
-✅ Implement distributed training  
-✅ Work with multimodal models  
+- Train models from scratch  
+- Design custom architectures  
+- Implement distributed training  
+- Work with multimodal models  
 
 ### After Level 4 (Expert)
-✅ Implement cutting-edge research  
-✅ Build production systems at scale  
-✅ Design agent architectures  
-✅ Contribute to LLM advancement  
+- Implement cutting-edge research  
+- Build production systems at scale  
+- Design agent architectures  
+- Contribute to LLM advancement  
 
 ---
 
-## 🎓 Certification Path (Self-Assessment)
+## Certification Path (Self-Assessment)
 
 ### Basic Certification
 - Complete all L1-L15 lessons
@@ -268,7 +268,7 @@ Each lesson follows a consistent structure:
 
 ---
 
-## 📊 Time Estimates
+## Time Estimates
 
 ### Full-Time Study (40 hours/week)
 - **Level 1:** 2 weeks
@@ -293,7 +293,7 @@ Each lesson follows a consistent structure:
 
 ---
 
-## 🎯 Success Tips
+## Success Tips
 
 1. **Sequential Learning:** Complete lessons in order
 2. **Hands-On Practice:** Run all code examples
@@ -306,7 +306,7 @@ Each lesson follows a consistent structure:
 
 ---
 
-## 📧 Support & Community
+## Support & Community
 
 - **GitHub Issues:** Technical problems
 - **GitHub Discussions:** Questions and sharing
@@ -315,7 +315,7 @@ Each lesson follows a consistent structure:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Read `README.md` for course overview
 2. Follow `QUICK_START.md` for setup
@@ -325,6 +325,6 @@ Each lesson follows a consistent structure:
 
 ---
 
-**Your LLM mastery journey starts now! 🎉**
+**Your LLM mastery journey starts now!**
 
 *Remember: Every expert was once a beginner. Take it one lesson at a time.*
