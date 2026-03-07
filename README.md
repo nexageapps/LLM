@@ -140,7 +140,7 @@ flowchart TB
 ### Skill Progression at a Glance
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#dbeafe', 'secondaryTextColor':'#0f172a', 'tertiaryTextColor':'#0f172a', 'textColor':'#1e293b', 'titleColor':'#0f172a', 'quadrant1TextFill':'#0f172a', 'quadrant2TextFill':'#0f172a', 'quadrant3TextFill':'#0f172a', 'quadrant4TextFill':'#0f172a', 'quadrant1Fill':'#dbeafe', 'quadrant2Fill':'#dcfce7', 'quadrant3Fill':'#fef3c7', 'quadrant4Fill':'#e0e7ff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#dbeafe', 'secondaryTextColor':'#0f172a', 'tertiaryTextColor':'#0f172a', 'textColor':'#e2e8f0', 'titleColor':'#f1f5f9', 'lineColor':'#94a3b8', 'quadrant1TextFill':'#0f172a', 'quadrant2TextFill':'#0f172a', 'quadrant3TextFill':'#0f172a', 'quadrant4TextFill':'#0f172a', 'quadrant1Fill':'#dbeafe', 'quadrant2Fill':'#dcfce7', 'quadrant3Fill':'#fef3c7', 'quadrant4Fill':'#e0e7ff', 'background':'#1e293b'}}}%%
 quadrantChart
     title Skill level by course stage
     x-axis Beginner --> Expert
