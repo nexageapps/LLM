@@ -215,7 +215,7 @@ mindmap
 **Goal:** Fine-tune models, use major families (BERT/GPT/T5), and build RAG and efficient inference.
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#fef3c7', 'primaryBorderColor':'#d97706', 'secondaryColor':'#dcfce7', 'tertiaryColor':'#dbeafe', 'background':'#ffffff', 'mainBkg':'#fffbeb', 'textColor':'#1e293b', 'nodeBorder':'#b45309', 'edgeColor':'#475569'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#fef3c7', 'primaryBorderColor':'#d97706', 'secondaryColor':'#dcfce7', 'tertiaryColor':'#dbeafe', 'background':'#ffffff', 'mainBkg':'#fffbeb', 'textColor':'#1e293b', 'nodeBorder':'#b45309', 'edgeColor':'#e2e8f0', 'lineColor':'#e2e8f0', 'arrowheadColor':'#e2e8f0'}}}%%
 flowchart LR
     L16[Transfer Learning] --> L17[Fine-tuning]
     L17 --> L18[LoRA]
@@ -312,7 +312,7 @@ flowchart TB
 **Goal:** Alignment, MoE/SSMs, agents, tools, deployment, and capstone.
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#ede9fe', 'primaryBorderColor':'#6d28d9', 'secondaryColor':'#fce7f3', 'tertiaryColor':'#dbeafe', 'background':'#ffffff', 'mainBkg':'#faf5ff', 'textColor':'#1e293b', 'nodeBorder':'#7c3aed', 'edgeColor':'#475569'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#ede9fe', 'primaryBorderColor':'#6d28d9', 'secondaryColor':'#fce7f3', 'tertiaryColor':'#dbeafe', 'background':'#ffffff', 'mainBkg':'#faf5ff', 'textColor':'#1e293b', 'nodeBorder':'#7c3aed', 'edgeColor':'#e2e8f0', 'lineColor':'#e2e8f0', 'arrowheadColor':'#e2e8f0'}}}%%
 flowchart LR
     L46[Constitutional AI] --> L47[MoE]
     L47 --> L48[State Space]
