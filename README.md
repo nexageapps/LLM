@@ -47,6 +47,7 @@ This course is designed as a **single path**: each level builds on the previous 
 ### Journey: Basic → Expert
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#dbeafe', 'primaryBorderColor':'#2563eb', 'secondaryTextColor':'#0f172a', 'secondaryColor':'#fef3c7', 'tertiaryTextColor':'#0f172a', 'tertiaryColor':'#dcfce7', 'background':'#ffffff', 'mainBkg':'#f8fafc', 'secondBkg':'#f1f5f9', 'textColor':'#1e293b', 'titleColor':'#0f172a', 'clusterBkg':'#eff6ff', 'clusterBorder':'#2563eb', 'nodeBorder':'#2563eb', 'edgeColor':'#475569', 'lineColor':'#475569'}}}%%
 flowchart LR
     subgraph L1["Level 1: Basic"]
         direction TB
@@ -87,6 +88,7 @@ flowchart LR
 ### Concept Dependencies (What Leads to What)
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#dbeafe', 'primaryBorderColor':'#2563eb', 'secondaryTextColor':'#0f172a', 'secondaryColor':'#e0e7ff', 'tertiaryTextColor':'#0f172a', 'tertiaryColor':'#dcfce7', 'background':'#ffffff', 'mainBkg':'#f8fafc', 'textColor':'#1e293b', 'titleColor':'#0f172a', 'clusterBkg':'#f0f9ff', 'clusterBorder':'#0284c7', 'nodeBorder':'#0ea5e9', 'edgeColor':'#475569'}}}%%
 flowchart TB
     subgraph Foundations
         T[Text & Tokenization]
@@ -138,6 +140,7 @@ flowchart TB
 ### Skill Progression at a Glance
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#dbeafe', 'secondaryTextColor':'#0f172a', 'tertiaryTextColor':'#0f172a', 'textColor':'#1e293b', 'titleColor':'#0f172a', 'quadrant1TextFill':'#0f172a', 'quadrant2TextFill':'#0f172a', 'quadrant3TextFill':'#0f172a', 'quadrant4TextFill':'#0f172a', 'quadrant1Fill':'#dbeafe', 'quadrant2Fill':'#dcfce7', 'quadrant3Fill':'#fef3c7', 'quadrant4Fill':'#e0e7ff'}}}%%
 quadrantChart
     title Skill level by course stage
     x-axis Beginner --> Expert
@@ -161,6 +164,7 @@ quadrantChart
 **Goal:** Understand text, tokens, embeddings, attention, and how to use pre-trained transformers.
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#dbeafe', 'secondaryColor':'#e0e7ff', 'tertiaryColor':'#dcfce7', 'background':'#ffffff', 'mainBkg':'#f8fafc', 'textColor':'#1e293b', 'titleColor':'#0f172a', 'nodeBorder':'#2563eb', 'clusterBorder':'#2563eb'}}}%%
 mindmap
   root((Basic))
     Text
@@ -211,6 +215,7 @@ mindmap
 **Goal:** Fine-tune models, use major families (BERT/GPT/T5), and build RAG and efficient inference.
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#fef3c7', 'primaryBorderColor':'#d97706', 'secondaryColor':'#dcfce7', 'tertiaryColor':'#dbeafe', 'background':'#ffffff', 'mainBkg':'#fffbeb', 'textColor':'#1e293b', 'nodeBorder':'#b45309', 'edgeColor':'#475569'}}}%%
 flowchart LR
     L16[Transfer Learning] --> L17[Fine-tuning]
     L17 --> L18[LoRA]
@@ -246,6 +251,7 @@ flowchart LR
 **Goal:** Train from scratch, use custom architectures, distributed and mixed-precision training, and multimodal/alignment topics.
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#dcfce7', 'primaryBorderColor':'#15803d', 'secondaryTextColor':'#0f172a', 'secondaryColor':'#dbeafe', 'tertiaryTextColor':'#0f172a', 'tertiaryColor':'#e0e7ff', 'background':'#ffffff', 'mainBkg':'#f0fdf4', 'textColor':'#1e293b', 'titleColor':'#0f172a', 'clusterBkg':'#ecfdf5', 'clusterBorder':'#059669', 'nodeBorder':'#0d9488', 'edgeColor':'#475569'}}}%%
 flowchart TB
     subgraph Train
         L31[Train from Scratch]
@@ -306,6 +312,7 @@ flowchart TB
 **Goal:** Alignment, MoE/SSMs, agents, tools, deployment, and capstone.
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#ede9fe', 'primaryBorderColor':'#6d28d9', 'secondaryColor':'#fce7f3', 'tertiaryColor':'#dbeafe', 'background':'#ffffff', 'mainBkg':'#faf5ff', 'textColor':'#1e293b', 'nodeBorder':'#7c3aed', 'edgeColor':'#475569'}}}%%
 flowchart LR
     L46[Constitutional AI] --> L47[MoE]
     L47 --> L48[State Space]
