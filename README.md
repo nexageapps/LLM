@@ -251,7 +251,7 @@ flowchart LR
 **Goal:** Train from scratch, use custom architectures, distributed and mixed-precision training, and multimodal/alignment topics.
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#dcfce7', 'primaryBorderColor':'#15803d', 'secondaryTextColor':'#0f172a', 'secondaryColor':'#dbeafe', 'tertiaryTextColor':'#0f172a', 'tertiaryColor':'#e0e7ff', 'background':'#ffffff', 'mainBkg':'#f0fdf4', 'textColor':'#1e293b', 'titleColor':'#0f172a', 'clusterBkg':'#ecfdf5', 'clusterBorder':'#059669', 'nodeBorder':'#0d9488', 'edgeColor':'#475569'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryTextColor':'#0f172a', 'primaryColor':'#dcfce7', 'primaryBorderColor':'#15803d', 'secondaryTextColor':'#0f172a', 'secondaryColor':'#dbeafe', 'tertiaryTextColor':'#0f172a', 'tertiaryColor':'#e0e7ff', 'background':'#ffffff', 'mainBkg':'#f0fdf4', 'textColor':'#1e293b', 'titleColor':'#0f172a', 'clusterBkg':'#ecfdf5', 'clusterBorder':'#059669', 'nodeBorder':'#0d9488', 'edgeColor':'#e2e8f0', 'lineColor':'#e2e8f0', 'arrowheadColor':'#e2e8f0'}}}%%
 flowchart TB
     subgraph Train
         L31[Train from Scratch]
