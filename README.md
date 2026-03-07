@@ -466,7 +466,16 @@ This project is licensed under the **MIT License** — see [LICENSE](./LICENSE).
 - OpenAI, Anthropic, Google — LLM research  
 - The open-source AI community  
 
+This repository was created as part of my personal learning journey in Artificial Intelligence during my Master of Artificial Intelligence program at the University of Auckland.
+
+Modern AI tools, including large language models, were used to assist with structuring parts of the documentation, improving explanations, and organizing the learning materials more effectively.
+
+These tools served as assistants during the writing and documentation process. All learning paths, notebook implementations, and educational design decisions were created, reviewed, and curated by the author.
+
+I am grateful to the open-source AI community and the developers of AI tools that help accelerate learning and knowledge sharing.
+
 ---
+
 
 **Happy learning!**
 
