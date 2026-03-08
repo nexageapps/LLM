@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./logo/logo_v2.png" width="220" height="220" alt="LLM Roadmap Logo" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+
 # LLM Mastery: Zero to Production
 
 ### Master Large Language Models through 60 hands-on lessons
