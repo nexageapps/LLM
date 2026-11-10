@@ -59,7 +59,7 @@ streamlit>=1.28.0
 # Utilities
 tqdm>=4.66.0
 requests>=2.31.0
-python-dotenv>=1.0.0
+python-dotenv>=1.2.4
 pyyaml>=6.0.0
 jsonlines>=4.0.0
 
