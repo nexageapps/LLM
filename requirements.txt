@@ -11,7 +11,7 @@ transformers>=4.35.0
 tokenizers>=0.15.0
 datasets>=2.14.0
 sentencepiece>=0.1.99
-sentence-transformers>=2.2.2
+sentence-transformers>=6.2.0
 
 # Training & Optimization
 accelerate>=0.24.0
