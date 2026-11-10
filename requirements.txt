@@ -35,7 +35,7 @@ plotly>=5.17.0
 
 # Vector Databases & RAG
 chromadb>=0.4.0
-faiss-cpu>=1.7.4
+faiss-cpu>=1.15.1
 pinecone-client>=2.2.0
 weaviate-client>=3.25.0
 
